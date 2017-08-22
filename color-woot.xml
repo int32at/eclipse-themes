@@ -30,7 +30,7 @@
     <staticField color="#93A2CC" />
     <staticFinalField color="#53DCCD" />
     <deprecatedMember color="#FFFFFF" />
-    <background color="#FFFFFF" />
+    <background color="#FEFEFE" />
     <currentLine color="#EFEFE0" />
     <foreground color="#969696" />
     <lineNumber color="#AAAAAA" />
